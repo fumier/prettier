@@ -12,6 +12,7 @@
 /website/build
 /website/i18n
 /website/static/playground.js
+/website/static/images
 /website/static/lib
 .DS_Store
 coverage
