@@ -262,6 +262,13 @@ const options = {
     type: "boolean",
     default: false,
     description: "Indent with tabs instead of spaces."
+  },
+  spaceBeforeFunctionParen:{
+    since: "1.0.0",
+    category: CATEGORY_GLOBAL,
+    type: "boolean",
+    default: true,
+    description: "Add space Before Function Parenthes."
   }
 };
 
